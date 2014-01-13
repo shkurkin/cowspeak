@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["eshkurkin@gmail.com"]
   spec.summary       = %q{Cow used to say, now it speak.}
   spec.description   = %q{Type what you want cow to speak.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/shkurkin/cowspeak"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
