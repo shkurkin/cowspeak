@@ -4,4 +4,4 @@ require 'rubygems'
 require 'cowspeak'
  
 
-cowspeak.say("Hello World")
+Cowspeak.say("Hello World")
