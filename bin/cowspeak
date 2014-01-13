@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+ 
+require 'cowspeak'
+ 
+cowspeak.say($1)
