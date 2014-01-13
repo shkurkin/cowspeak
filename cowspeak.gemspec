@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Cowspeak::VERSION
   spec.authors       = ["Eli Shkurkin"]
   spec.email         = ["eshkurkin@gmail.com"]
-  spec.summary       = %q{Cow used to say, now it speak}
-  spec.description   = %q{Type what you want cow to speak}
+  spec.summary       = %q{Cow used to say, now it speak.}
+  spec.description   = %q{Type what you want cow to speak.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
