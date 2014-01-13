@@ -4,4 +4,4 @@ require 'rubygems'
 require 'cowspeak'
  
 
-Cowspeak.say($1)
+Cowspeak.say(ARGV.join(" "))
