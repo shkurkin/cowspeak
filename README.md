@@ -1,6 +1,6 @@
 # Cowspeak
 
-TODO: Write a gem description
+Cow used to say, now it speak.
 
 ## Installation
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+cowspeak let me sing you a song
+```
 
 ## Contributing
 
