@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
  
+require 'rubygems'
 require 'cowspeak'
  
-cowspeak.say($1)
+
+cowspeak.say("Hello World")
